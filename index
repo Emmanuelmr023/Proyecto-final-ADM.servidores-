@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="img/favicon.jpg" type="image/x-icon"> 
+    <link rel="stylesheet" href="styler.css">
+    <title>Desing</title>
+</head>
+<body>
+
+    <div id="principal">
+       
+
+        
+        <header>
+            <div id="logo">
+                <H1 class="letra">TEGNO-MR</H1>
+                <p class="titulo">Para asegurar el futuro de mi empresa </p>
+            </div>
+
+            <nav class="menu">
+                <ul>
+                  <li><a href="file:///C:/Users/Reyes/Desktop/monitores.html">Monitores</a></li>
+                  <li><a href="file:///C:/Users/Reyes/Desktop/Laptos.html">Laptos</a></li>
+                  <li><a href="file:///C:/Users/Reyes/Desktop/teclados%20y%20mouse.html">Teclados y Mouses</a></li>
+                  <li><a href="file:///C:/Users/Reyes/Desktop/Camaras%20y%20Impresoras.html">Camara y Impresoras </a></li>
+                  <li><a href="file:///C:/Users/Reyes/Desktop/Discos%20y%20ram.html">dicos y Me.Ram</a></li>
+                </ul>
+            </nav>
+                  
+        </header>
+              <section id="slide">
+               <img src="C:\Users\Reyes\Desktop\Imagenes\fondo de arriba.png" alt="" width="900" height="250">
+   
+             </section>
+     
+           <section id="categorias">
+                <section class="uno">
+                    <img src="img/2.jpg" alt="" width="250" height="150" >
+                       <h2>Informacion general </h2>
+                       <p>
+                          En esta pagina web de tienda online le ofrecemos la seguridad y el mejor servicio a nuestros compradores. 
+                          se estan haciendo envios a todas
+                          partes de la Rep.Dom.
+                       </p>
+                       <p>
+                          
+                     Tenemos una nueva sucursal ubicada santiago y su fecha de estreno sera a partir de enero del año 2021, esten 
+                     atento a la pagina web para mas informaciones.
+                       <P>TELEFONOS PARA CONTACTARNOS </P>
+                       </p>
+                       <p>TEL:809-599-3817</p>
+                       <p>TEL:809-599-2125</p>
+                       <a href="" class="leer-mas">leer mas</a> <br><br>
+                </section>
+
+                <section class="uno dos"><img src="img/2.jpg" alt="" width="250" height="150" >
+                    <h2>Ubicacion de la empresa </h2>
+                    <p>
+                    Nuestra empresa esta ubicada en el sector mameyes calle 4ta, Cerca del politecnico jose maria velaz (jomave).
+                    </p>
+                    <p>
+                    Nuestra sucursal en santiago esta ubicada Av. Bartolomé Colón, Santiago De Los Caballeros 51000 cerca de la universidad
+                    dominicana O&M.
+                    </p>
+                    <p>TEL: 809-235-4528</p>
+                    <a href="" class="leer-mas">leer mas</a> <br><br>
+                </section>
+
+                <section class="uno"><img src="img/2.jpg" alt="" width="250" height="150" >
+                    <h2>Al momento de comprar </h2>
+                    <p>
+                     Para ver la informaciones de los equipos solo debes de deja tu pulsor o mouses encima de la imagen donde quieres saber los
+                     la informacion.
+                     <br><br>
+                     En la parte de informacion veras como puedes contactarnos y donde estamos ubicados.
+                     <br><br>
+                     <h2>Oferctas </h2>
+                     Aprovecha nuestro descuento por el mes de Diembre y la mitad del mes de enero, Envio gratis A cualquier parte del pais
+                     solo por el mes de diciembre.
+                    </p>
+                    <a href="" class="leer-mas">leer mas</a> <br><br>
+                </section>
+           </section> <!---categoria---->
+
+           <section id="info"> 
+             <section id="izq">
+                  <P>
+                      <img class="img" src="img/descarga.jpg" align="left" width="150" >
+
+                      <h2>Servicios a Ofrecer</h2>
+
+                    
+                           <br><br>
+                           La empresa le ofrece al cliente montarle los dispositovos comprados.
+                           <br><br>
+                           Le ofrecemos al cliente organizar el espacio que tenga , para las instalaciones de los
+                           dispositivos(recuerden un espacio organizado, vale mucho en una empresa, el empleado trabaja mas como y a los clientes le 
+                           atrae los espacios bien organizado).
+                           <br>
+                           <h3>Soporte tecnico</h3>
+                           le brindamos el soporte tecnico a los dispositivos de la empresa antes y despues de que termine la garantia del equipo
+                           vendido.
+                           <br><br>
+
+                           Tambien le brindamos soporte a los equipos que el cliente compro en otra empresa, sumandole el costo que se gaste para 
+                           repararlo.
+                           <br><br>
+                            
+                           <b>Para mas informaciones: </b>contacte nuestro encargado de area tecnicas y averías 
+                           telefono de oficiona:809-232-4512 Correo: soportestecnomr@gmail.com
+            
+                           
+                    </P>
+             </section>
+             <section id="dare">
+                <h2>video musica</h2> 
+                <iframe width="290" height="300" src="https://www.youtube.com/embed/pjcap4732To" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></section>
+           </section> <!---info-->
+
+            <footer id="footer">
+                <p>
+            Si quiere hacer negocianes grandes y quiere hablar con el los dueños de la empresa puede escribir al correo <a href="emmanuelreyesmoncion@gmail.com">emmanuelreyesmoncion@gmail.com</a>
+                </p>
+            </footer>
+    </div>
+         
+    
+</body>
+</html>
